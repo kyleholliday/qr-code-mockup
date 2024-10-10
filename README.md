@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://qr-project-site.netlify.app/)
+- Live Site URL: [https://qr-project-site.netlify.app/](https://qr-project-site.netlify.app/)
 
 ## My process
 
@@ -29,7 +29,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](https://www.kyleholliday.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/kyleholliday)
+- Website - [https://www.kyleholliday.com](https://www.kyleholliday.com)
+- Frontend Mentor - [@kyleholliday](https://www.frontendmentor.io/profile/kyleholliday)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
